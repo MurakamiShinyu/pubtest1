@@ -6,4 +6,5 @@ lang: en
 
 This is a test document.
 
-Hi.
+Hi. This is a pen.
+
