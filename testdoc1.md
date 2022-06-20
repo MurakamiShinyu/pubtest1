@@ -8,4 +8,4 @@ This is a test document.
 
 Hi. This is a pen.
 
-Foo.
+Foo Baa.
