@@ -14,9 +14,9 @@ This is a test document.
 
 <p style="font-family: IPAGothic">IPAゴシック</p>
 
-<p style="font-family: IPA PMincho">IPA P明朝</p>
+<p style="font-family: IPAPMincho">IPA P明朝</p>
 
-<p style="font-family: IPA PGothic">IPA Pゴシック</p>
+<p style="font-family: IPAPGothic">IPA Pゴシック</p>
 
 <p style="font-family: IPAexMincho">IPAex明朝</p>
 
