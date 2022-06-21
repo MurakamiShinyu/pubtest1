@@ -2,10 +2,6 @@
 
 This is a test document.
 
-Hi. This is a pen.
-
-Foo Baa.
-
 <p style="font-family: Helvetica">Helvetica</p>
 
 <p style="font-family: Times">Times</p>
